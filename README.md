@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PranavBajpai07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/PranavBajpai07/LeetCode/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/PranavBajpai07/LeetCode/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/PranavBajpai07/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -30,10 +31,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PranavBajpai07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/PranavBajpai07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/PranavBajpai07/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/PranavBajpai07/LeetCode/tree/master/0392-is-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PranavBajpai07/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
