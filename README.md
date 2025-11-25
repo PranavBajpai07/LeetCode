@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PranavBajpai07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/PranavBajpai07/LeetCode/tree/master/0041-first-missing-positive) |
+| [0136-single-number](https://github.com/PranavBajpai07/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PranavBajpai07/LeetCode/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/PranavBajpai07/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/PranavBajpai07/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PranavBajpai07/LeetCode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PranavBajpai07/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
