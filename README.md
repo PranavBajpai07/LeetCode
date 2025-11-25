@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/PranavBajpai07/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/PranavBajpai07/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/PranavBajpai07/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/PranavBajpai07/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/PranavBajpai07/LeetCode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
