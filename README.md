@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PranavBajpai07/LeetCode/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/PranavBajpai07/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/PranavBajpai07/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PranavBajpai07/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/PranavBajpai07/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/PranavBajpai07/LeetCode/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/PranavBajpai07/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
