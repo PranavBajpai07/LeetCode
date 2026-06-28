@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PranavBajpai07/LeetCode/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/PranavBajpai07/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/PranavBajpai07/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1470-shuffle-the-array](https://github.com/PranavBajpai07/LeetCode/tree/master/1470-shuffle-the-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/PranavBajpai07/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Math
 |  |
